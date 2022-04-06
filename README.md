@@ -2,7 +2,7 @@
 
 ## Summary
 
-Refactor a marketing agency website to use semantic HTML
+Refactoring a marketing agency website to make it more accessible and increase the user-engagement. Semantic HTML elements were added, comments were added and the page now has a logical structure. Alt attributes were added for all images and was described. Search Engine Optimization nav link was fixed and also some duplicate class names in CC were removed and replaced with generic class names in HTL.
 
 ## Deployed App
 
